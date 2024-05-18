@@ -14,5 +14,4 @@ Pastikan Anda telah menginstal:
    ```sh
    pkg update && pkg upgrade```
 2. **Install pustaka `ncurses`**
-3. ```sh
-   pkg install ncurses```
+3. ```sh pkg install ncurses```
