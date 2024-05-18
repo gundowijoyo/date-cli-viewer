@@ -12,4 +12,6 @@ Pastikan Anda telah menginstal:
 
 1. **Perbarui dan tingkatkan paket yang sudah ada:**
    ```sh
-   pkg update && pkg upgrade
+   pkg update && pkg upgrade```
+2. **Install pustara `ncurses`**
+3. ```sh pkg install ncurses```
