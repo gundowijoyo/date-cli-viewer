@@ -11,6 +11,8 @@ Pastikan Anda telah menginstal:
 ## Instalasi di Termux
 
 1. **Perbarui dan tingkatkan paket yang sudah ada:**
-```sh pkg update && pkg upgrade
+```sh
+ pkg update && pkg upgrade
 2. **Install pustaka `ncurses`**
-3. ```sh pkg install ncurses
+ ```sh
+ pkg install ncurses
