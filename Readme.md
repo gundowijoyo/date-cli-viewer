@@ -12,7 +12,7 @@ Pastikan Anda telah menginstal:
 
 1. **Perbarui dan tingkatkan paket yang sudah ada:**
 ```sh
- pkg update && pkg upgrade
+ pkg update && pkg upgrade```
 2. **Install pustaka `ncurses`**
  ```sh
- pkg install ncurses
+ pkg install ncurses```
