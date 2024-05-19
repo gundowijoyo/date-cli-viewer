@@ -62,6 +62,3 @@ Pastikan Anda telah menginstal paket-paket berikut sebelum mengompilasi program 
 - Tekan `n` untuk beralih ke tanggal selanjutnya.
 - Tekan `p` untuk beralih ke tanggal sebelumnya.
 - Tekan `q` untuk keluar dari program.
-
-## Hasil Program 
-[Alt Text](img.jpg)
